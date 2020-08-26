@@ -1,4 +1,4 @@
-s#include <SoftwareSerial.h>
+#include <SoftwareSerial.h>
 
 #define ledpin 5
 int status ;
